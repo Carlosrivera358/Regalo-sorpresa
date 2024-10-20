@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+#regalo {
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    position: relative;
+    cursor: pointer;
+}
+
+.caja {
+    width: 100%;
+    height: 100%;
+    background-color: #ffcccb;
+    border: 3px solid #333;
+    position: absolute;
+}
+
+.moño {
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+    position: absolute;
+    top: -25px;
+    left: 25px;
+}
+
+#mensaje {
+    margin-top: 20px;
+    font-size: 1.5em;
+}
+
+#gato img {
+    max-width: 200px;
+    margin-top: 20px;
+}
